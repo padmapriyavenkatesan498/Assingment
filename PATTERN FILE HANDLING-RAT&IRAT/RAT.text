@@ -1,0 +1,56 @@
+Right Angle Triangle-number-column
+---------------------
+1
+22
+333
+4444
+55555
+666666
+Right Angle Triangle-number-row
+---------------------
+0
+01
+012
+0123
+01234
+012345
+Right Angle Triangle-number-row
+---------------------
+A
+BB
+CCC
+DDDD
+EEEEE
+FFFFFF
+Right Angle Triangle-number-column
+---------------------
+A
+AB
+ABC
+ABCD
+ABCDE
+ABCDEF
+Right Angle Triangle-number-column
+---------------------
+a
+ab
+abc
+abcd
+abcde
+abcdef
+Right Angle Triangle-number-row
+---------------------
+b
+cc
+ddd
+eeee
+fffff
+gggggg
+Right Angle Triangle-star
+---------------------
+*
+**
+***
+****
+*****
+******
