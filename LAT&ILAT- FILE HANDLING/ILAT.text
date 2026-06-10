@@ -1,0 +1,52 @@
+Inverse Left Angle Triangle_number_row
+--------------------------------------
+666666
+ 55555
+  4444
+   333
+    22
+     1
+Inverse Left Angle Triangle_loweralpha_column
+---------------------------------------------
+abcdef
+ abcde
+  abcd
+   abc
+    ab
+     a
+Inverse Left Angle Triangle_number_column
+-----------------------------------------
+0123456
+ 012345
+  01234
+   0123
+    012
+     01
+      0
+Inverse Left Angle Triangle_upperalpha_row
+-------------------------------------------
+GGGGGGG
+ FFFFFF
+  EEEEE
+   DDDD
+    CCC
+     BB
+      A
+Inverse Left Angle Triangle_upperalpha_column
+---------------------------------------------
+ABCDEFG
+ ABCDEF
+  ABCDE
+   ABCD
+    ABC
+     AB
+      A
+Inverse Left Angle Triangle_number_star
+---------------------------------------
+*******
+ ******
+  *****
+   ****
+    ***
+     **
+      *
