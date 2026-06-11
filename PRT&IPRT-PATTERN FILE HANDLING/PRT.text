@@ -1,0 +1,63 @@
+PRT Triangle_number_row
+-----------------------
+       
+      1 
+     2 2 
+    3 3 3 
+   4 4 4 4 
+  5 5 5 5 5 
+ 6 6 6 6 6 6 
+PRT Triangle_number_column
+------------------ -------
+       
+      
+     1 
+    1 2 
+   1 2 3 
+  1 2 3 4 
+ 1 2 3 4 5 
+PRT Triangle_upperalpha_row
+---------------------------
+       
+      A 
+     B B 
+    C C C 
+   D D D D 
+  E E E E E 
+ F F F F F F 
+PRT Triangle_upperalpha_column
+------------------------------
+       
+      A 
+     B B 
+    C C C 
+   D D D D 
+  E E E E E 
+ F F F F F F 
+PRT Triangle_loweralpha_row
+---------------------------
+       
+      a 
+     b b 
+    c c c 
+   d d d d 
+  e e e e e 
+ f f f f f f 
+PRT Traiangle_loweralpha_column
+-------------------------------
+
+a 
+a b 
+a b c 
+a b c d 
+a b c d e 
+a b c d e f 
+PRT Triangle_number_star
+------------------------
+       
+      * 
+     * * 
+    * * * 
+   * * * * 
+  * * * * * 
+ * * * * * * 
